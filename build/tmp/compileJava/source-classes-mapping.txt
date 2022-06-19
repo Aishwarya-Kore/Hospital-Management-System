@@ -1,0 +1,81 @@
+HospitalManagementSystem/Main.java
+ HospitalManagementSystem.Main
+updatepatient.java
+ updatepatient
+ updatepatient$1
+ updatepatient$2
+ updatepatient$3
+ updatepatient$4
+ updatepatient$5
+ updatepatient$6
+resetpassword.java
+ resetpassword
+ resetpassword$1
+ resetpassword$2
+ resetpassword$3
+ resetpassword$4
+ resetpassword$5
+ resetpassword$6
+ resetpassword$7
+Project/MyConnection.java
+ Project.MyConnection
+diagnosticReport.java
+ diagnosticReport
+ diagnosticReport$1
+ diagnosticReport$2
+ diagnosticReport$3
+ diagnosticReport$4
+ diagnosticReport$5
+ diagnosticReport$6
+udatePatient.java
+ udatePatient
+ udatePatient$1
+ udatePatient$2
+ udatePatient$3
+ udatePatient$4
+ udatePatient$5
+ udatePatient$6
+ udatePatient$7
+ udatePatient$8
+Project/SendOtp_1.java
+ SendOtp_1
+patientdetails.java
+ patientdetails
+ patientdetails$1
+ patientdetails$2
+ patientdetails$3
+ patientdetails$4
+Project/sendOTP.java
+ sendOTP
+Project/PasswordHash.java
+ Project.PasswordHash
+login.java
+ login
+ login$1
+ login$2
+ login$3
+ login$4
+ login$5
+ login$6
+ login$7
+addNewPatient.java
+ addNewPatient
+ addNewPatient$1
+ addNewPatient$2
+ addNewPatient$3
+ addNewPatient$4
+ addNewPatient$5
+home.java
+ home
+ home$1
+ home$2
+ home$3
+ home$4
+ home$5
+ home$6
+register.java
+ register
+ register$1
+ register$2
+ register$3
+ register$4

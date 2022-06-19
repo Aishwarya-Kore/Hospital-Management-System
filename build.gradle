@@ -1,0 +1,19 @@
+apply plugin: 'java'
+apply plugin: 'jacoco'
+apply plugin: 'application'
+
+
+mainClassName = 'HospitalManagementSystem.Main'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation     'junit:junit:4.13'
+    implementation 'org.postgresql:postgresql:42.2.23'
+    implementation 'at.swimmesberger:swingx-all:1.6.8'
+    implementation fileTree(dir: 'lib', include: 'rs2xml.jar')
+    implementation fileTree(dir: 'lib', include: 'twilio-8.9.0-jar-with-dependencies.jar')
+    implementation fileTree(dir: 'lib', include: 'Bulk_SMS_Library.jar')
+}
